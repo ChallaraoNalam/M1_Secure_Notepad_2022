@@ -1,4 +1,4 @@
-PROJECT_NAME = 
+PROJECT_NAME = Student_Management_System
 
 # Output directory
 BUILD = build
