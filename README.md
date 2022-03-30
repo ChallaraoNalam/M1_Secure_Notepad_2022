@@ -9,3 +9,5 @@
 [![Build CI - Windows](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/Build_Windows.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/git_inspector.yml)
+
+[![Unit testing](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/unit-test.yml/)
