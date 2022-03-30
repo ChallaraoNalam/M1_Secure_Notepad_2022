@@ -18,7 +18,7 @@
 #include <string.h>
 
 /* include the windows header flie*/
-#include <windows.h>                 /*To perform the windows operations*/
+/* #include <windows.h> */                 /*To perform the windows operations*/
 
 
 FILE *fp, *ft;                       /*File pointers to access the files*/
