@@ -31,8 +31,9 @@ Student Management System is so simple to use. In order to use the application, 
 * DELETE RECORD 
 * MODIFY RECORD
 * DISPLAY RECORD
-
-![imagename](https://drive.google.com/file/d/17L4nojRF2T8fT8eRwpiq8_W9FPJ3phHQ/view?usp=sharing)
+<br>
+<img height="700" src="https://drive.google.com/file/d/17L4nojRF2T8fT8eRwpiq8_W9FPJ3phHQ/view?usp=sharing" />
+</br>
 
 ## TOOLS USED
 * GCC Compiler
