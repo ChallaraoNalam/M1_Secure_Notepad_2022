@@ -12,8 +12,7 @@ Student Record System is software built to handle the primary housekeeping funct
     Future Proof
 ```
 ## Disadvantages
-```Limited cases are stored in the structure.
-```
+```Limited cases are stored in the structure.```
 
 ## Cost and Features
 * EasierAccess
