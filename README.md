@@ -2,6 +2,10 @@
 
 # Badges
 
+* Codacy
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1d0140eed694255b1252dadc688aca3)](https://www.codacy.com/gh/ChallaraoNalam/M1_Student_Management_System_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChallaraoNalam/M1_Student_Management_System_2022&amp;utm_campaign=Badge_Grade)
+
 * Codiga - Static analysis
 
 ![Codiga Badge](https://api.codiga.io/project/32235/score/svg)
