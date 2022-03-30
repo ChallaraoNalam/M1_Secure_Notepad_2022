@@ -118,5 +118,8 @@ limited  access.
 |ID|Description|Status|
 |--|-----------|------|
 |HR01|Main Menu|Implemented|
-
+|HR02|Add Record|Implemented|
+|HR03|Modify Record|Implemented|
+|HR04|Delete Record|Implemented|
+|HR05|Display Record|Implemented|
 
