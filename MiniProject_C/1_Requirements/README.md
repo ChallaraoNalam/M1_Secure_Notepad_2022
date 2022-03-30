@@ -111,4 +111,12 @@ This application was developed in C language to avoid the complexity and to keep
 limited  access.
 ```
 
+# Detail Requirements
+
+## High Level Requirements
+
+|ID|Description|Status|
+|--|-----------|------|
+|HR01|Main Menu|Implemented|
+
 
