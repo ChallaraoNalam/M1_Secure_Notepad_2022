@@ -125,10 +125,11 @@ limited  access.
 
 ## Low Level Requirements
 
-|ID|    Description   |HR ID|Status|
-|LR01|	Main menu should consist 4 options: 1.Add record, 2.Display record, 3.Modify record 4.Delete record	|HR01|	Implemented|
-|LR02|	Reading user input to select particular option |HR01|	Implemented|
-|LR03|	Output screen will display the Student details |HR05|	Implemented|
-|LR04|	Read user input from the Student details |HR03|	Implemented|
-|LR05|	Should delete the Student details |HR04| Implemented|
+|ID|Description|HR ID|Status|
+|--|-----------|-----|------|
+|LR01|Main menu should consist 4 options: 1.Add record, 2.Display record, 3.Modify record 4.Delete record|HR01|Implemented|
+|LR02|Reading user input to select particular option|HR01|Implemented|
+|LR03|Output screen will display the Student details|HR05|Implemented|
+|LR04|Read user input from the Student details|HR03|Implemented|
+|LR05|Should delete the Student details|HR04|Implemented|
 
