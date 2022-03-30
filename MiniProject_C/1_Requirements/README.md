@@ -7,12 +7,15 @@ Student Record System is software built to handle the primary housekeeping funct
 ## Research
 
 ## Advantages
-```Easy and faster access
+```advantages
+    Easy and faster access
     can be used anywhere
     Future Proof
 ```
 ## Disadvantages
-```Limited cases are stored in the structure.```
+```diasdvantages
+Limited cases are stored in the structure.
+```
 
 ## Cost and Features
 * EasierAccess
