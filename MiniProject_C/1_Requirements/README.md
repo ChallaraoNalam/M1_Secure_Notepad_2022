@@ -32,7 +32,7 @@ Student Management System is so simple to use. In order to use the application, 
 * MODIFY RECORD
 * DISPLAY RECORD
 
-! [Flowchart](https://drive.google.com/file/d/17L4nojRF2T8fT8eRwpiq8_W9FPJ3phHQ/view?usp=sharing)
+![imagename](https://drive.google.com/file/d/17L4nojRF2T8fT8eRwpiq8_W9FPJ3phHQ/view?usp=sharing)
 
 ## TOOLS USED
 * GCC Compiler
