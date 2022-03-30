@@ -31,8 +31,9 @@ Student Management System is so simple to use. In order to use the application, 
 * DELETE RECORD 
 * MODIFY RECORD
 * DISPLAY RECORD
+## ![alt text]http://url/to/img.png)
 <br>
-<img height="700" src="https://drive.google.com/file/d/17L4nojRF2T8fT8eRwpiq8_W9FPJ3phHQ/view?usp=sharing" />
+<img height="700" src="https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/blob/main/MiniProject_C/1_Requirements/Flowchat.png" />
 </br>
 
 ## TOOLS USED
