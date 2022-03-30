@@ -51,6 +51,8 @@ Folder             | Description
 `6_Test_plan`      |test plans and procedures
 `7_Other`         |doxygen document
 
+## Integrated Tools to GitHub
+*  [Codacy](https://www.codacy.com/)
 
 ## Contributors List and Summary
 S No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
