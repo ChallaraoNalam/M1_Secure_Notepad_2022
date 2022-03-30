@@ -12,7 +12,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <windows.h>
+/*#include <windows.h>*/
 
 /* Here we define the data structure Struct for considering */
 /* few parameters for the student record */
