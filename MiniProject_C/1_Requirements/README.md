@@ -1,2 +1,4 @@
-# Requriements
+# STUDENT MANAGEMENT SYSTEM
+
+``` ## INTRODUCTION```
 
