@@ -90,17 +90,17 @@ int main()
 		/* Clearing console and asking the*/
 		/* user for input*/
 		system("cls");
-		gotoxy(30, 10);
+		//gotoxy(30, 10);
 		printf("\n1. ADD RECORD\n");
-		gotoxy(30, 12);
+		//gotoxy(30, 12);
 		printf("\n2. DELETE RECORD\n");
-		gotoxy(30, 14);
+		//gotoxy(30, 14);
 		printf("\n3. DISPLAY RECORDS\n");
-		gotoxy(30, 16);
+		//gotoxy(30, 16);
 		printf("\n4. MODIFY RECORD\n");
-		gotoxy(30, 18);
+		//gotoxy(30, 18);
 		printf("\n5. EXIT\n");
-		gotoxy(30, 20);
+		//gotoxy(30, 20);
 		printf("\nENTER YOUR CHOICE...\n");
 		fflush(stdin);
 		scanf("%d", &choice);              /*@param choice will take the input*/
