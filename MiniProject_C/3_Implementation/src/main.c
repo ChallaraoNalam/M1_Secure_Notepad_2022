@@ -24,7 +24,7 @@
 
 /*In the start coordinates*/
 /* will be 0, 0*/
-COORD cord = { 0, 0 };    /*@param cord will hold the coordinates of x and y starting at 0,0.*/
+/*COORD cord = { 0, 0 };    /*@param cord will hold the coordinates of x and y starting at 0,0.*/
 
 /* function to set the*/
 /* coordinates*/
@@ -38,7 +38,7 @@ void gotoxy(int x, int y)     /*gotoxy functions will be used set the coordinate
 }
 /**@brief Sets the cursor position in the specified console screen buffer.
 * using standard output handle at specified coordinates using cord                                             
-* variable. */
+* variable. */*/
 
 FILE *fp, *ft;
 
