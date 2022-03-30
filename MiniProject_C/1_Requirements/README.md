@@ -31,7 +31,7 @@ Student Management System is so simple to use. In order to use the application, 
 * DELETE RECORD 
 * MODIFY RECORD
 * DISPLAY RECORD
-## ![alt text]http://url/to/img.png)
+
 <br>
 <img height="700" src="https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/blob/main/MiniProject_C/1_Requirements/Flowchat.png" />
 </br>
@@ -83,5 +83,32 @@ This application was developed in C language to avoid the complexity and to keep
 ```
 
 ## SWOT ANALYSIS
-[SWOT Analysis](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/blob/main/MiniProject_C/1_Requirements/swot.png)
+<br>
+<img height="700" src="https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/blob/main/MiniProject_C/1_Requirements/swot.png" />
+</br>
+
+## Strengths
+```
+  We can access it from anywhere.
+  It provides the student details easily.
+  It is available for 24/7.
+```
+
+## Weaknesses
+```
+  Limited details are stored in the structure.
+  Needs graphical user interface.
+```
+
+## Opportunities
+```
+  It can provides the student details for world wide and also for organization. 
+  User friendly.
+```  
+
+## Threats
+```  
+limited  access.
+```
+
 
