@@ -2,6 +2,11 @@
 
 # Badges
 
+* Codiga - Static analysis
+
+![Codiga Badge](https://api.codiga.io/project/32235/score/svg)
+![Codiga Badge](https://api.codiga.io/project/32235/status/svg)
+
 * Build
 
 [![Build CI -Linux](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/c-cpp.yml)
