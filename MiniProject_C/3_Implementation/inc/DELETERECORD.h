@@ -62,7 +62,7 @@ int deleterecord()
 		printf("\nWant to delete another"
 			" record (Y/N) :");
 		fflush(stdin);                  /*stdin will be flushed.*/
-		another = getche();
+		//another = getche();
 	}
 return 1;
 }
