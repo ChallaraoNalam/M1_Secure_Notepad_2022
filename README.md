@@ -5,3 +5,5 @@
 [![cppcheck-action](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/cppcheck-action.yml)
 
 [![Analysis](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/Analysis.yml/badge.svg)](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/Analysis.yml)
+
+[![Build CI - Windows](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/ChallaraoNalam/M1_Student_Management_System_2022/actions/workflows/Build_Windows.yml)
